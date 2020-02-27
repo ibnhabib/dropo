@@ -2,6 +2,7 @@
 title: Ocean Freight
 date: 2020-02-27T20:00:00.000Z
 thumb_img_path: /images/gray-asphalt-road-1698277.jpg
+img_path: /images/gray-asphalt-road-1698277.jpg
 template: post
 ---
 <!--StartFragment-->
