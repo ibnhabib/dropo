@@ -1,5 +1,5 @@
 ---
-title: Ocean Freight
+title: Blog
 menus:
   secondary:
     title: ''
