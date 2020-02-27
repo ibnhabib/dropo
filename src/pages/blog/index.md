@@ -1,8 +1,9 @@
 ---
-title: Blog
+title: Ocean Freight
 menus:
   secondary:
-    title: Blog
+    title: ''
     weight: 2
 template: blog
 ---
+
