@@ -5,7 +5,7 @@ sections:
       - label: Learn More
         url: /features
     content: A smart delivery service
-    image: images/hero.png
+    image: /images/086-truck-11.png
     section_id: hero
     title: Deliver door to door
     type: section_hero
