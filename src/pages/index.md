@@ -40,9 +40,12 @@ sections:
         title: Cool Feature of Your Services
     section_id: features
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
-    title: Features
+      We offer you customized logistics solutions for e-commerce to best suit
+      your supply chain needs. The foundation of any good e-commerce
+      organization is based on the right choice of e-commerce delivery partners
+      who can guarantee timely and safe deliveries to ensure customer
+      satisfaction.
+    title: Services
     type: section_features
   - bg: white
     reviews:
@@ -85,4 +88,3 @@ menus:
     weight: 1
 template: landing
 ---
-
