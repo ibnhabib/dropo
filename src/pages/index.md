@@ -19,7 +19,7 @@ sections:
           aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
           consequat ex.
         image: images/feature1.png
-        title: The Best Feature of Your Services
+        title: eCommerce delivery services
       - actions:
           - label: Learn More
             url: /features
@@ -28,7 +28,7 @@ sections:
           sapien interdum luctus. Cras rhoncus condimentum metus sit amet
           auctor.
         image: images/feature2.png
-        title: Awesome Feature of Your Services
+        title: Logistics and supply chain
       - actions:
           - label: Learn More
             url: /features
@@ -37,7 +37,7 @@ sections:
           quis venenatis sem. Proin eget massa id metus eleifend maximus sit
           amet nec urna.
         image: images/feature3.png
-        title: Cool Feature of Your Services
+        title: Transportation services
     section_id: features
     subtitle: >-
       We offer you customized logistics solutions for e-commerce to best suit
