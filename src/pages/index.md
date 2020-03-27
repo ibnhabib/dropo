@@ -41,10 +41,7 @@ sections:
     section_id: features
     subtitle: >-
       We offer you customized logistics solutions for e-commerce to best suit
-      your supply chain needs. The foundation of any good e-commerce
-      organization is based on the right choice of e-commerce delivery partners
-      who can guarantee timely and safe deliveries to ensure customer
-      satisfaction.
+      your supply chain needs.
     title: Services
     type: section_features
   - bg: white
