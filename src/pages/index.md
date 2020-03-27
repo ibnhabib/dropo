@@ -20,7 +20,7 @@ sections:
           Integrated freight, fulfillment, delivery and returns solutions,
           underpinned by easy-to-use digital integration: APIs and web
           interfaces.
-        image: images/feature1.png
+        image: /images/business_svg.svg
         title: eCommerce
       - actions:
           - label: Learn More
@@ -29,7 +29,7 @@ sections:
           Dropogram Delivery offers businesses and consumers on-demand,
           same-day, next-day or cross-border urban deliveries. Hassle-free
           delivery is now a reality.
-        image: images/feature2.png
+        image: /images/delivery_app_svg.svg
         title: Deliveries
       - actions:
           - label: Learn More
@@ -39,7 +39,7 @@ sections:
           quotes and to book, pay and track your shipments online. With our
           global network of logistics experts and industry-leading technology,
           we ensure that your goods arrive safely and reliably every time.
-        image: images/feature3.png
+        image: /images/086-truck-11.png
         title: Freight
     section_id: features
     subtitle: >-
