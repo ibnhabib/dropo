@@ -15,29 +15,32 @@ sections:
           - label: Learn More
             url: /features
         content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+          Dropogram Ecommerce gives online merchants access to some of the
+          world’s fastest growing and most complex e-commerce markets.
+          Integrated freight, fulfillment, delivery and returns solutions,
+          underpinned by easy-to-use digital integration: APIs and web
+          interfaces.
         image: images/feature1.png
-        title: eCommerce delivery services
+        title: eCommerce
       - actions:
           - label: Learn More
             url: /features
         content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+          Dropogram Delivery offers businesses and consumers on-demand,
+          same-day, next-day or cross-border urban deliveries. Hassle-free
+          delivery is now a reality.
         image: images/feature2.png
-        title: Logistics and supply chain
+        title: Deliveries
       - actions:
           - label: Learn More
             url: /features
         content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+          Dropogram Freight makes it easy to get instant air and ocean freight
+          quotes and to book, pay and track your shipments online. With our
+          global network of logistics experts and industry-leading technology,
+          we ensure that your goods arrive safely and reliably every time.
         image: images/feature3.png
-        title: Transportation services
+        title: Freight
     section_id: features
     subtitle: >-
       We offer you customized logistics solutions for e-commerce to best suit
@@ -72,8 +75,8 @@ sections:
       - label: Get Started
         url: /signup
     section_id: call-to-action
-    subtitle: This is an optional description for the call to action block.
-    title: This Is Call To Action Block!
+    subtitle: ''
+    title: Contact Us
     type: section_cta
   - bg: gray
     section_id: recent-posts
