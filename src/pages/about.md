@@ -1,6 +1,6 @@
 ---
 title: About Us
-subtitle: We are taking new start
+subtitle: We are taking off
 img_path: images/about.jpg
 menus:
   secondary:
