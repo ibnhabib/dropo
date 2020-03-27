@@ -4,7 +4,9 @@ sections:
   - actions:
       - label: Learn More
         url: /features
-    content: A smart delivery service
+    content: >-
+      Dropogram is a digital logistics platform designed to help consumers and
+      small businesses tap into the global economy.
     image: /images/086-truck-11.png
     section_id: hero
     title: Deliver door to door
