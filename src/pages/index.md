@@ -4,56 +4,50 @@ sections:
   - actions:
       - label: Learn More
         url: /features
-    content: >-
-      Dropogram is a digital logistics platform designed to help consumers and
-      small businesses tap into the global economy.
+    content: U Kargo help our customer to send their cargo all over Pakistan
     image: /images/086-truck-11.png
     section_id: hero
-    title: Deliver door to door
+    title: Cargo to Pakistan
     type: section_hero
   - bg: gray
     featureslist:
       - actions:
           - label: Learn More
             url: /features
-        content: >-
-          Dropogram Ecommerce gives online merchants access to some of the
+        content: "Dropogram Ecommerce gives online merchants access to some of the
           world’s fastest growing and most complex e-commerce markets.
           Integrated freight, fulfillment, delivery and returns solutions,
           underpinned by easy-to-use digital integration: APIs and web
-          interfaces.
+          interfaces."
         image: /images/business_svg.svg
         title: eCommerce
       - actions:
           - label: Learn More
             url: /features
-        content: >-
-          Dropogram Delivery offers businesses and consumers on-demand,
-          same-day, next-day or cross-border urban deliveries. Hassle-free
-          delivery is now a reality.
+        content: Dropogram Delivery offers businesses and consumers on-demand, same-day,
+          next-day or cross-border urban deliveries. Hassle-free delivery is now
+          a reality.
         image: /images/delivery_app_svg.svg
         title: Deliveries
       - actions:
           - label: Learn More
             url: /features
-        content: >-
-          Dropogram Freight makes it easy to get instant air and ocean freight
+        content: Dropogram Freight makes it easy to get instant air and ocean freight
           quotes and to book, pay and track your shipments online. With our
           global network of logistics experts and industry-leading technology,
           we ensure that your goods arrive safely and reliably every time.
         image: /images/086-truck-11.png
         title: Freight
     section_id: features
-    subtitle: >-
-      We offer you customized logistics solutions for e-commerce to best suit
-      your supply chain needs.
+    subtitle: We offer you customized logistics solutions for e-commerce to best
+      suit your supply chain needs.
     title: Services
     type: section_features
   - actions:
       - label: Get Started
         url: /signup
     section_id: call-to-action
-    subtitle: ''
+    subtitle: ""
     title: Contact Us
     type: section_cta
   - bg: gray
