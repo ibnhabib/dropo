@@ -6,6 +6,8 @@ subtitle: The style guide provides you with a blueprint of default post and page
 menus:
   main:
     title: ""
+    weight: 0
+  secondary:
     weight: ""
 template: page
 ---
