@@ -1,6 +1,6 @@
 {
   "title": "U Kargo",
-  "palette": "blue",
+  "palette": "green",
   "header": {
     "title": "U Kargo",
     "logo_img": "/images/uartboard-1-4x.png",
@@ -20,9 +20,9 @@
     "has_subscribe": true,
     "social_title": "Community",
     "tagline": "We move, We care",
-    "logo_img": "/images/dropogram-yellow.png",
+    "logo_img": "/images/uartboard-1-4x.png",
     "has_social": true,
-    "content": "2020 &copy; dropogram.com. All rights reserved.",
+    "content": "2020 &copy; ukargo.com. All rights reserved.",
     "links": [
       {
         "text": "",
