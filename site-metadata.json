@@ -1,9 +1,9 @@
 {
-  "title": "Dropogram Corporation",
+  "title": "U Kargo",
   "palette": "blue",
   "header": {
-    "title": "dropogram",
-    "logo_img": "/images/dropogram1.png",
+    "title": "U Kargo",
+    "logo_img": "/images/uartboard-1-4x.png",
     "has_nav": true,
     "menu": {
       "actions": [
