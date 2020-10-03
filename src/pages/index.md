@@ -3,7 +3,7 @@ title: Home
 sections:
   - actions:
       - label: Call us
-        url: tel:+971554948975
+        url: <a href="tel:5554280940"></a>
     content: U Kargo help our customer to send their cargo all over Pakistan
     image: /images/086-truck-11.png
     section_id: hero
@@ -45,7 +45,7 @@ sections:
     type: section_features
   - actions:
       - label: Get Started
-        url: /signup
+        url: <a href="tel:5554280940"></a>
     section_id: call-to-action
     subtitle: ""
     title: Contact Us
