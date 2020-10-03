@@ -3,7 +3,7 @@ title: Home
 sections:
   - actions:
       - label: Call us
-        url: tel://+971554948975
+        url: https://wa.me/971554948975
     content: U Kargo help our customer to send their cargo all over Pakistan
     image: /images/086-truck-11.png
     section_id: hero
