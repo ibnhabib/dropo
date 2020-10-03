@@ -10,6 +10,10 @@
         {
           "label": "Sign Up",
           "url": "/signup"
+        },
+        {
+          "label": "Call us",
+          "url": "href=\"tel:+971554948975\">"
         }
       ]
     }
