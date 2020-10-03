@@ -4,7 +4,7 @@
   "header": {
     "title": "U Kargo",
     "logo_img": "/images/uartboard-1-4x.png",
-    "has_nav": false,
+    "has_nav": true,
     "menu": {
       "actions": [
         {
