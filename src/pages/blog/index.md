@@ -3,8 +3,9 @@ title: Blog
 menus:
   secondary:
     title: ""
-    weight: 2
+    weight: ""
   main:
-    weight: 1
+    weight: 4
+    title: Blog
 template: blog
 ---
