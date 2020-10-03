@@ -14,6 +14,14 @@
         {
           "label": "Call us",
           "url": "/tel:+971554948975"
+        },
+        {
+          "label": "Call us",
+          "url": "tel:+971554948975"
+        },
+        {
+          "label": "Call us",
+          "url": "\"tel:+971554948975\""
         }
       ]
     }
