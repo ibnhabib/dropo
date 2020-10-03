@@ -10,18 +10,6 @@
         {
           "label": "Whatsapp",
           "url": "https://wa.me/971554948975?text=I%20want%20to%20send%20cargo%20to%20Pakistan,%20Can%20you%20please%20call%20me%20back.%20Thanks.%20My%20name%20is%20_ _"
-        },
-        {
-          "label": "Call us",
-          "url": "/tel:+971554948975"
-        },
-        {
-          "label": "Call us",
-          "url": "tel:+971554948975"
-        },
-        {
-          "label": "Call us",
-          "url": "\"tel:+971554948975\""
         }
       ]
     }
