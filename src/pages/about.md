@@ -8,4 +8,4 @@ menus:
     weight: 1
 template: page
 ---
-Dropogram Corporation based in Canada having operations in UAE and Pakistan.
+U Kargo is specialize to send cargo to Pakistan
