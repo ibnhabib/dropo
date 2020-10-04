@@ -2,19 +2,13 @@
 title: Home
 sections:
   - actions:
-      - label: Call us
+      - label: Whatsapp
         url: https://wa.me/971554948975
-    content: >-
+    content: >
       U Kargo help our customer to send their cargo all over Pakistan.
 
 
       <p class="block-buttons"><a href="tel:+971554948975"" class="button white large">Call us</a></p>
-
-
-      <a href="tel:+971554948975">Call us</a>
-
-
-      <a href="tel:+971554948975">{_.get(action, 'label')}</a>
     image: /images/086-truck-11.png
     section_id: hero
     title: Cargo to Pakistan
