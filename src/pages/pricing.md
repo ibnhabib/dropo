@@ -29,12 +29,19 @@ sections:
           - label: Order Now
             url: /signup
       - title: Tv / LCD / LED
-        price: AED 9/per inch
+        price: AED 8-10/per inch
         details: |
           * Packing Charges are not included
         actions:
           - label: Call or Whatspp
             url: /contact
+      - highlight: false
+        title: Sofa
+        price: AED 8/kg
+        details: "* Packing is not included"
+      - highlight: false
+        title: Foam / Mattress
+        price: AED 6/kg
   - type: section_faq
     section_id: faq
     title: Frequently Asked Questions
