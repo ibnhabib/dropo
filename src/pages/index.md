@@ -16,29 +16,29 @@ sections:
   - bg: gray
     featureslist:
       - actions:
-          - label: Learn More
-            url: /features
+          - label: Contact us
+            url: /contact
         content: Reliable and express logistics and transport solutions That no waste
           your time!
         image: /images/1.png
         title: Cargo Services
       - actions:
-          - label: Learn More
-            url: /features
+          - label: Contact us
+            url: /contact
         content: Dropogram Delivery offers businesses and consumers on-demand, same-day,
           next-day or cross-border urban deliveries. Hassle-free delivery is now
           a reality.
-        image: /images/delivery_app_svg.svg
-        title: Deliveries
+        image: /images/movers_17-1080x540.jpg
+        title: Packing and Moving
       - actions:
           - label: Learn More
             url: /features
-        content: Dropogram Freight makes it easy to get instant air and ocean freight
+        content: U Kargo Freight makes it easy to get instant air and ocean freight
           quotes and to book, pay and track your shipments online. With our
           global network of logistics experts and industry-leading technology,
           we ensure that your goods arrive safely and reliably every time.
-        image: /images/086-truck-11.png
-        title: Freight
+        image: /images/truck_2.png
+        title: Freight and Transport
     section_id: features
     subtitle: Providing A Range Of Logistics Services & Solutions Worldwide
     title: Services
