@@ -4,68 +4,50 @@ sections:
   - type: section_pricing
     section_id: pricing
     title: Pricing Plans
-    subtitle: You can have a separate pricing page or list everything on the home page.
+    subtitle: "Estimate cargo price for all over Pakistan "
     bg: gray
     pricingplans:
-      - title: Basic
-        price: $5/m
+      - title: General Items
+        price: AED 3/KG
         details: |-
-          * Lorem ipsum dolor sit amet
-          * Mauris a mi tincidunt
-          * Suspendisse ut lacus
-          * Etiam eget dui a augue
+          * Cloths
+          * luggage
+          * House holds
+          * Toys etc
         actions:
-          - label: Order Now
-            url: /signup
-      - title: Professional
-        price: $49/m
+          - label: Call or Whatsapp
+            url: /contact
+      - title: Electronics
+        price: AED 7/kg
         details: |-
-          * Curabitur non nunc mollis
-          * Duis a purus nec ligula
-          * Pellentesque sit amet
-          * Fusce tempus mi vitae
-          * Nullam sollicitudin ante
+          * Electrical Items
+          * Washing Machines
+          * Fridge , AC
+          * Electrical Items
         highlight: true
         actions:
           - label: Order Now
             url: /signup
-      - title: Enterprise
-        price: $149/m
-        details: |-
-          * Vestibulum non eros quis
-          * Aenean iaculis lorem
-          * Mauris eleifend sapien
-          * Phasellus lobortis risus
+      - title: Tv / LCD / LED
+        price: AED 9/per inch
+        details: |
+          * Packing Charges are not included
         actions:
-          - label: Order Now
-            url: /signup
+          - label: Call or Whatspp
+            url: /contact
   - type: section_faq
     section_id: faq
     title: Frequently Asked Questions
-    subtitle: 'Phasellus luctus laoreet arcu, vel porta metus imperdiet sit amet.'
+    subtitle: ""
     bg: gray
     faqitems:
-      - question: Mauris ut tellus id arcu sagittis lacinia quis vel justo?
-        answer: >-
-          Ut cursus, nunc vitae hendrerit viverra, massa ipsum congue quam, sed
-          tempus mauris lacus sit amet nibh. Curabitur laoreet est maximus
-          mollis feugiat. Praesent nibh libero, placerat et justo at, luctus
-          tristique enim. Pellentesque habitant morbi tristique senectus et
-          netus et malesuada fames ac turpis egestas.
-      - question: Aliquam eget purus ante?
-        answer: >-
-          Nunc sollicitudin libero tincidunt felis pretium, consectetur aliquam
-          eros placerat. Sed neque neque, bibendum a pulvinar id, pellentesque
-          eget velit. 
-      - question: Sed scelerisque in ipsum eu sollicitudin?
-        answer: >-
-          Nullam quis ultrices ipsum. Integer eleifend laoreet quam, ac
-          dignissim nisi mollis eget. Ut vitae nisi sit amet nisi suscipit
-          dictum faucibus eget magna. Vivamus in hendrerit magna, non
-          pellentesque metus. Morbi orci odio, dictum at efficitur sit amet,
-          luctus in ipsum. Nunc pellentesque mi vel dui vulputate, a lobortis
-          lacus venenatis. Phasellus pellentesque dolor id feugiat faucibus.
-          Etiam vehicula nunc velit, in consequat nisl feugiat nec.
+      - question: How long it will take to reach?
+        answer: It usually takes a month to reach at home.
+      - question: Can you move full house items
+        answer: "Yes we move all the items if you are moving back to home. "
+      - question: Do you have packing servies?
+        answer: Yes, we are professional packer and can do all of kind of packing and
+          shifting.
 menus:
   main:
     title: Pricing
