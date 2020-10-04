@@ -12,6 +12,9 @@ sections:
 
 
       <a href="tel:5551234567">Call (555)123-4567</a>
+
+
+      <a href="tel:+18475555555">{_.get(action, 'label')}</a>
     image: /images/086-truck-11.png
     section_id: hero
     title: Cargo to Pakistan
