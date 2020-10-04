@@ -4,7 +4,7 @@ sections:
   - actions:
       - label: Whatsapp
         url: https://wa.me/971554948975
-    content: >
+    content: >-
       U Kargo help our customer to send their cargo all over Pakistan.
 
 
@@ -20,7 +20,7 @@ sections:
             url: /features
         content: Reliable and express logistics and transport solutions That no waste
           your time!
-        image: /images/ship_main.png
+        image: /images/delivery_app_svg.svg
         title: Cargo Services
       - actions:
           - label: Learn More
