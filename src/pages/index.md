@@ -4,7 +4,14 @@ sections:
   - actions:
       - label: Call us
         url: https://wa.me/971554948975
-    content: U Kargo help our customer to send their cargo all over Pakistan
+    content: >-
+      U Kargo help our customer to send their cargo all over Pakistan.
+
+
+      <p class="block-buttons"><a href="https://wa.me/971554948975" class="button white large">Call us</a></p>
+
+
+      <a href="tel:5551234567">Call (555)123-4567</a>
     image: /images/086-truck-11.png
     section_id: hero
     title: Cargo to Pakistan
