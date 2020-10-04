@@ -35,13 +35,16 @@ sections:
         actions:
           - label: Call or Whatspp
             url: /contact
+  - type: section_pricing
+    bg: gray
+    pricingplans:
       - highlight: false
         title: Sofa
         price: AED 8/kg
-        details: "* Packing is not included"
       - highlight: false
-        title: Foam / Mattress
+        title: Mattress / Foam
         price: AED 6/kg
+    section_id: pricing
   - type: section_faq
     section_id: faq
     title: Frequently Asked Questions
