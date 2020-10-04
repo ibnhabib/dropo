@@ -9,7 +9,7 @@ sections:
 
 
       <p class="block-buttons"><a href="tel:+971554948975"" class="button white large"> Call us </a></p>
-    image: /images/086-truck-11.png
+    image: /images/crgo1.png
     section_id: hero
     title: Cargo to Pakistan
     type: section_hero
@@ -43,8 +43,7 @@ sections:
         image: /images/086-truck-11.png
         title: Freight
     section_id: features
-    subtitle: We offer you customized logistics solutions for e-commerce to best
-      suit your supply chain needs.
+    subtitle: We offer you customized logistics and transport solutions.
     title: Services
     type: section_features
   - actions:
