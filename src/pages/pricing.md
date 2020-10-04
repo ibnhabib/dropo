@@ -1,14 +1,14 @@
 ---
-title: Pricing
+title: Items we move
 sections:
   - type: section_pricing
     section_id: pricing
-    title: Pricing Plans
-    subtitle: "Estimate cargo price for all over Pakistan "
+    title: Items we move
+    subtitle: Items you can move
     bg: gray
     pricingplans:
       - title: General Items
-        price: AED 3/KG
+        price: ""
         details: |-
           * Cloths
           * luggage
@@ -18,20 +18,22 @@ sections:
           - label: Call or Whatsapp
             url: /contact
       - title: Electronics
-        price: AED 7/kg
+        price: ""
         details: |-
           * Electrical Items
           * Washing Machines
           * Fridge , AC
-          * Electrical Items
         highlight: true
         actions:
-          - label: Order Now
-            url: /signup
+          - label: Call or Whatspp
+            url: /contact
       - title: Tv / LCD / LED
-        price: AED 8-10/per inch
-        details: |
-          * Packing Charges are not included
+        price: ""
+        details: |+
+          * TV
+          * LCD
+          * LED
+
         actions:
           - label: Call or Whatspp
             url: /contact
@@ -39,11 +41,15 @@ sections:
     bg: gray
     pricingplans:
       - highlight: false
-        title: Sofa
-        price: AED 8/kg
-      - highlight: false
-        title: Mattress / Foam
-        price: AED 6/kg
+        title: Furniture
+        price: ""
+        details: |-
+          * Sofa
+          * Foams
+          * Mattress
+        actions:
+          - label: Call or Whatspp
+            url: /contact
     section_id: pricing
   - type: section_faq
     section_id: faq
