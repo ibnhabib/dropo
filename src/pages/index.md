@@ -18,13 +18,10 @@ sections:
       - actions:
           - label: Learn More
             url: /features
-        content: "Dropogram Ecommerce gives online merchants access to some of the
-          world’s fastest growing and most complex e-commerce markets.
-          Integrated freight, fulfillment, delivery and returns solutions,
-          underpinned by easy-to-use digital integration: APIs and web
-          interfaces."
-        image: /images/business_svg.svg
-        title: eCommerce
+        content: Reliable and express logistics and transport solutions That no waste
+          your time!
+        image: /images/ship_main.png
+        title: Cargo Services
       - actions:
           - label: Learn More
             url: /features
@@ -43,7 +40,7 @@ sections:
         image: /images/086-truck-11.png
         title: Freight
     section_id: features
-    subtitle: We offer you customized logistics and transport solutions.
+    subtitle: Providing A Range Of Logistics Services & Solutions Worldwide
     title: Services
     type: section_features
   - actions:
