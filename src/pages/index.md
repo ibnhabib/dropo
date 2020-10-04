@@ -18,8 +18,13 @@ sections:
       - actions:
           - label: Contact us
             url: /contact
-        content: Reliable and express logistics and transport solutions that no waste
-          your time!
+        content: >-
+          U Kargo Freight makes it easy to get instant air and ocean freight
+          quotes and to book, pay and track your shipments online. With our
+          global network of logistics experts and industry-leading technology,
+          we ensure that your goods arrive safely and reliably every time.
+
+          Reliable and express logistics and transport solutions that no waste your time!
         image: /images/1.png
         title: Cargo Services
       - actions:
@@ -33,10 +38,10 @@ sections:
       - actions:
           - label: Learn More
             url: /features
-        content: U Kargo Freight makes it easy to get instant air and ocean freight
-          quotes and to book, pay and track your shipments online. With our
-          global network of logistics experts and industry-leading technology,
-          we ensure that your goods arrive safely and reliably every time.
+        content: U Kargo Freight makes it easy to get instant transport and ocean
+          freight quotes and move immediately. With our global network of
+          logistics experts and industry-leading technology, we ensure that your
+          goods arrive safely and reliably every time.
         image: /images/truck_2.png
         title: Freight and Transport
     section_id: features
