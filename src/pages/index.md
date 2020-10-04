@@ -20,7 +20,7 @@ sections:
             url: /features
         content: Reliable and express logistics and transport solutions That no waste
           your time!
-        image: /images/delivery_app_svg.svg
+        image: /images/1.png
         title: Cargo Services
       - actions:
           - label: Learn More
