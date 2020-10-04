@@ -8,7 +8,7 @@ sections:
       U Kargo help our customer to send their cargo all over Pakistan.
 
 
-      <p class="block-buttons"><a href="tel:+971554948975"" class="button white large">Call us</a></p>
+      <p class="block-buttons"><a href="tel:+971554948975"" class="button white large"> Call us </a></p>
     image: /images/086-truck-11.png
     section_id: hero
     title: Cargo to Pakistan
