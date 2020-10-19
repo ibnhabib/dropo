@@ -45,6 +45,9 @@ sections:
         image: /images/truck_2.png
         title: Freight and Transport
       - title: Air Cargo Service
+        content: We offer a full range of air freight products and services, all of
+          which are designed to offer best in class solutions.
+        image: /images/1835282180.jpg
     section_id: features
     subtitle: Providing A Range Of Logistics Services & Solutions Worldwide
     title: Services
