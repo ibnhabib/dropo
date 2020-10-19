@@ -5,13 +5,13 @@ sections:
       - label: Whatsapp
         url: https://wa.me/971554948975
     content: >-
-      U Kargo helps our customer to send their cargo all over Pakistan.
+      U Kargo helps our customer to send their cargo to home.
 
 
       <p class="block-buttons"><a href="tel:+971554948975"" class="button white large"> Call us </a></p>
     image: /images/crgo1.png
     section_id: hero
-    title: Cargo to Pakistan
+    title: Cargo to Home
     type: section_hero
   - bg: gray
     featureslist:
@@ -26,7 +26,7 @@ sections:
 
           Reliable and express logistics and transport solutions that no waste your time!
         image: /images/1.png
-        title: Cargo Services
+        title: Sea Cargo Services
       - actions:
           - label: Contact us
             url: /contact
@@ -44,6 +44,7 @@ sections:
           goods arrive safely and reliably every time.
         image: /images/truck_2.png
         title: Freight and Transport
+      - title: Air Cargo Service
     section_id: features
     subtitle: Providing A Range Of Logistics Services & Solutions Worldwide
     title: Services
