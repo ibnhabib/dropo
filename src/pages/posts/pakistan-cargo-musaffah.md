@@ -1,7 +1,7 @@
 ---
 title: Pakistan cargo musaffah
 date: 2020-10-04T15:56:24.088Z
-thumb_img_path: /images/businessman-2108029_1920.jpg
+thumb_img_path: /images/1.png
 img_path: /images/businessman-2108029_1920.jpg
 excerpt: Door to door cargo to Pakistan from Musaffah
 template: post
