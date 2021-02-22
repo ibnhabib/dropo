@@ -11,7 +11,7 @@ sections:
       <p class="block-buttons"><a href="tel:+971554948975"" class="button white large"> Call us </a></p>
     image: /images/crgo1.png
     section_id: hero
-    title: Cargo to Home
+    title: "Shipping globally "
     type: section_hero
   - bg: gray
     featureslist:
@@ -20,18 +20,18 @@ sections:
             url: /contact
         content: >-
           U Kargo Freight makes it easy to get instant air and ocean freight
-          quotes and to book, pay and track your shipments online. With our
-          global network of logistics experts and industry-leading technology,
-          we ensure that your goods arrive safely and reliably every time.
+          solutions online. With our global network of logistics experts and
+          industry-leading technology, we ensure that your goods arrive safely
+          and reliably every time.
 
           Reliable and express logistics and transport solutions that no waste your time!
         image: /images/1.png
-        title: Sea Cargo Services
+        title: Cargo Services
       - actions:
           - label: Contact us
             url: /contact
         content: U Kargo offers businesses and consumers on-demand, same-day, next-day
-          or cross-border packing and moving services. Hassle-free delivery is
+          or cross-border packing to moving services. Hassle-free delivery is
           now a reality.
         image: /images/movers_17-1080x540.jpg
         title: Packing and Moving
@@ -44,12 +44,12 @@ sections:
           goods arrive safely and reliably every time.
         image: /images/truck_2.png
         title: Freight and Transport
-      - title: Air Cargo Service
-        content: We offer a full range of air freight products and services, all of
-          which are designed to offer best in class solutions.
+      - title: Courier Service
+        content: We offer a full range of courier services, all of which are designed to
+          offer best in class solutions.
         image: /images/1835282180.jpg
     section_id: features
-    subtitle: Providing A Range Of Logistics Services & Solutions Worldwide
+    subtitle: Providing A Range Of Logistics Solutions Worldwide
     title: Services
     type: section_features
   - actions:
