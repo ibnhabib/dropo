@@ -69,7 +69,7 @@ sections:
 menus:
   main:
     title: ""
-    weight: ""
+    weight: 0
   secondary:
     weight: 5
     title: Abu Dhabi Mover
