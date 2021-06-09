@@ -68,7 +68,10 @@ sections:
       Start planning your move today! Call **+971 2 5548822** or [request a moving quote online.](/contact)
 menus:
   main:
-    title: Relocation
-    weight: 3
+    title: ""
+    weight: ""
+  secondary:
+    weight: 5
+    title: Abu Dhabi Mover
 template: landing
 ---
