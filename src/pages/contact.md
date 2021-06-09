@@ -24,8 +24,12 @@ sections:
       Mars Express Logistics and Transport,<br>
       P.O Box 8646, Musaffah, Abu Dhabi, UAE<br>
       Email: contact@ukargo.com<br>
+
+      Phone: +971-2-5548822<br>
       Phone: +971-2-4442848<br>
       Mobile: +971-55-4948975<br>
+
+      Mobile: +971-58-5847087<br>
       </p>
 menus:
   secondary:
