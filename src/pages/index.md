@@ -27,7 +27,7 @@ sections:
 
           Reliable and express logistics and transport solutions that no waste your time!
         image: /images/1.png
-        title: Cargo Services
+        title: Logistics Services
       - actions:
           - label: Contact us
             url: /contact
@@ -39,12 +39,10 @@ sections:
       - actions:
           - label: Learn More
             url: /features
-        content: U Kargo Freight makes it easy to get instant transport and ocean
-          freight quotes and move immediately. With our global network of
-          logistics experts and industry-leading technology, we ensure that your
-          goods arrive safely and reliably every time.
+        content: U Kargo Transports provide transport services including Furniture
+          transport, cargo transports to all over UAE.
         image: /images/truck_2.png
-        title: Freight and Transport
+        title: Transport Services
       - title: Courier Service
         content: We offer a full range of courier services, all of which are designed to
           offer best in class solutions.
