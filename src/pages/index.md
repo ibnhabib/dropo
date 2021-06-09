@@ -1,11 +1,7 @@
 ---
 title: Home
 sections:
-  - actions:
-      - label: Whatsapp
-        url: https://wa.me/971554948975
-      - label: Call us
-        url: tel:971554948975
+  - actions: []
     content: >-
       U Kargo helps our customer to send their cargo to home.
 
