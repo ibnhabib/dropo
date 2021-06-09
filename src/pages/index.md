@@ -26,7 +26,7 @@ sections:
           and reliably every time.
 
           Reliable and express logistics and transport solutions that no waste your time!
-        image: /images/1.png
+        image: /images/undraw_connected_world_wuay.svg
         title: Logistics Services
       - actions:
           - label: Contact us
@@ -34,21 +34,21 @@ sections:
         content: U Kargo offers businesses and consumers on-demand, same-day, next-day
           or cross-border packing to moving services. Hassle-free delivery is
           now a reality.
-        image: /images/movers_17-1080x540.jpg
+        image: /images/undraw_logistics_x4dc.svg
         title: Packing and Moving
       - actions:
           - label: Contact Us
             url: /contact
         content: U Kargo Transports provide transport services including Furniture
           transport, cargo transports to all over UAE.
-        image: /images/truck_2.png
+        image: /images/undraw_factory_dy0a.svg
         title: Transport Services
       - title: Courier Service
         content: We offer a full range of courier services, all of which are designed to
           offer best in class solutions. We have service agreements with all the
           major global courier companies which enable us to provide competitive
           prices and services.
-        image: /images/1835282180.jpg
+        image: /images/undraw_on_the_way_re_swjt.svg
         actions:
           - label: Contact Us
             url: /contact
