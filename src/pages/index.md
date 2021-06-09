@@ -37,22 +37,27 @@ sections:
         image: /images/movers_17-1080x540.jpg
         title: Packing and Moving
       - actions:
-          - label: Learn More
-            url: /features
+          - label: Contact Us
+            url: /contact
         content: U Kargo Transports provide transport services including Furniture
           transport, cargo transports to all over UAE.
         image: /images/truck_2.png
         title: Transport Services
       - title: Courier Service
         content: We offer a full range of courier services, all of which are designed to
-          offer best in class solutions.
+          offer best in class solutions. We have service agreements with all the
+          major global courier companies which enable us to provide competitive
+          prices and services.
         image: /images/1835282180.jpg
+        actions:
+          - label: Contact Us
+            url: /contact
     section_id: features
     subtitle: Providing A Range Of Logistics Solutions Worldwide
     title: Services
     type: section_features
   - actions:
-      - label: Contact us
+      - label: Contact Us
         url: /contact
     section_id: call-to-action
     subtitle: we offer competitive pricing while handling your items with ultimate
