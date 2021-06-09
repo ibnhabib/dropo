@@ -71,7 +71,8 @@ sections:
 menus:
   main:
     title: ""
-    weight: ""
+    weight: 3
+    identifier: "1"
   secondary:
     weight: 1
     title: ""
