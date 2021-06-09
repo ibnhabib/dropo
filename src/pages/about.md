@@ -6,6 +6,8 @@ menus:
   secondary:
     title: About Us
     weight: 1
+  main:
+    weight: 5
 template: page
 ---
 U Kargo logistics is International and local freight forwarding company head office in Abu Dhabi.
