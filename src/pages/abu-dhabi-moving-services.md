@@ -18,11 +18,6 @@ sections:
       With an office in Abu Dhabi we are able to offer our customers a fantastic range of moving services that will save you time, effort (and money!).
 
 
-      ![](/images/6-600x413.jpg)
-
-
-
-
       Due to our extensive global network of partners, Allied is your one stop moving shop. Our Abu Dhabi moving services include:
 
 
@@ -66,6 +61,12 @@ sections:
 
 
       Start planning your move today! Call **+971 2 5548822** or [request a moving quote online.](/contact)
+  - type: section_features
+    bg: gray
+    subtitle: Looking for a reliable mover in Abu Dhabi? Ukargo is the company who
+      will guarantee to make your Abu Dhabi move seamless, straight forward and
+      stress free!
+    title: Abu Dhabi Moving Services
 menus:
   main:
     title: ""
