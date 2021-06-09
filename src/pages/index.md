@@ -4,6 +4,8 @@ sections:
   - actions:
       - label: Whatsapp
         url: https://wa.me/971554948975
+      - label: Call us
+        url: tel:971554948975
     content: >-
       U Kargo helps our customer to send their cargo to home.
 
@@ -11,7 +13,7 @@ sections:
       <p class="block-buttons"><a href="tel:+971554948975"" class="button white large"> Call us </a></p>
     image: /images/crgo1.png
     section_id: hero
-    title: "Shipping globally "
+    title: Local and International Mover Packer
     type: section_hero
   - bg: gray
     featureslist:
