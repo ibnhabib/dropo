@@ -1,6 +1,6 @@
 ---
 title: About Us
-subtitle: We are taking off
+subtitle: Local and International movers in Abu Dhabi
 img_path: images/about.jpg
 menus:
   secondary:
@@ -8,4 +8,15 @@ menus:
     weight: 1
 template: page
 ---
-U Kargo is specialize to send cargo to Pakistan
+U Kargo logistics is International and local freight forwarding company head office in Abu Dhabi.
+
+We are a leading relocation company in Abu Dhabi dealing as movers and packers. We are a highly experienced team of professionals who work to provide a most reliable and cost effective services for residential as well as commercial moving services in Dubai and Abu Dhabi, UAE.
+
+We undertake complete responsibility of relocation services in Abu Dhabi by offering end to end solutions so that our clients are free to relocate without any stress.
+
+Our mission and values are to help people and businesses to relocate without stress throughout Dubai, UAE.
+
+Are you looking for relocation service, we are one click ahead.
+
+<a href="tel:+971554948975" class="button"> Click to Call </a><br>
+<a href="https://wa.me/971554948975" class="button">Click to Whatsapp</a>
