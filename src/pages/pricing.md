@@ -1,6 +1,9 @@
 ---
 title: Abu Dhabi Moving Services
 sections:
+  - type: section_hero
+    title: Abu Dhabi Moving Services
+    image: /images/086-truck-11.png
   - type: section_content
     bg: gray
     content: >-
