@@ -1,72 +1,66 @@
 ---
-title: Items we move
+title: Abu Dhabi Moving Services
 sections:
-  - type: section_pricing
-    section_id: pricing
-    title: Items we move
-    subtitle: Items you can move
+  - type: section_content
     bg: gray
-    pricingplans:
-      - title: General Items
-        price: ""
-        details: |-
-          * Cloths
-          * luggage
-          * House holds
-          * Toys etc
-        actions:
-          - label: Call or Whatsapp
-            url: /contact
-      - title: Electronics
-        price: ""
-        details: |-
-          * Electrical Items
-          * Washing Machines
-          * Fridge , AC
-        highlight: true
-        actions:
-          - label: Call or Whatspp
-            url: /contact
-      - title: Tv / LCD / LED
-        price: ""
-        details: |+
-          * TV
-          * LCD
-          * LED
+    content: >-
+      Looking for a reliable mover in Abu Dhabi? Ukargo is the company who will
+      guarantee to make your Abu Dhabi move seamless, straight forward and
+      stress free!
 
-        actions:
-          - label: Call or Whatspp
-            url: /contact
-  - type: section_pricing
-    bg: gray
-    pricingplans:
-      - highlight: false
-        title: Furniture
-        price: ""
-        details: |-
-          * Sofa
-          * Foams
-          * Mattress
-        actions:
-          - label: Call or Whatspp
-            url: /contact
-    section_id: pricing
-  - type: section_faq
-    section_id: faq
-    title: Frequently Asked Questions
-    subtitle: ""
-    bg: gray
-    faqitems:
-      - question: How long it will take to reach?
-        answer: It usually takes a month to reach at home.
-      - question: Can you move full house items
-        answer: "Yes we move all the items if you are moving back to home. "
-      - question: Do you have packing servies?
-        answer: Yes, we are professional packer and can do all of kind of packing and
-          shifting.
+
+      **Abu Dhabi Moving Services**
+
+
+      With an office in Abu Dhabi we are able to offer our customers a fantastic range of moving services that will save you time, effort (and money!).
+
+
+      Due to our extensive global network of partners, Allied is your one stop moving shop. Our Abu Dhabi moving services include:
+
+
+      ●     [Furniture Moving](/household-goods-move)\
+
+      ●     [House Moving](/house-moving)\
+
+      ●     [International Moving Services](/international-moving-services)\
+
+      ●     [Relocation Service from Abu Dhabi](/relocation-services-from-abu-dhabi)\
+
+      ●     [Moving & Packing Services](/uae-moving-packing-services)[](https://www.allied.com/ae/services/uae-moving-packing-services)\
+
+      ●     [Storage Solutions](/storage-services)
+
+
+      **Affordable & Professional Abu Dhabi Movers**
+
+
+      With so many **local movers** to choose from how do you know **which mover is the right one for you**? We have prepared detailed information on choosing the right mover for you, however we can tell you that you can be confident with us you will be receiving:
+
+
+      ●     Award winning service (voted 5 times best International Mover)\
+
+      ●     Affordable rates\
+
+      ●     Professional, experienced movers\
+
+      ●     Skilled packers\
+
+      ●     Reliable and efficient service
+
+
+      **Moving Overseas?**
+
+
+      If you happen to be moving from Abu Dhabi to an overseas destination, look no further than our [international moving](/understanding-the-move-process) team. Whether relocating overseas for work, or moving with family, your international move from Abu Dhabi will be effortless!
+
+
+      **Get Started**
+
+
+      Start planning your move today! Call **+971 2 5548822** or [request a moving quote online.](/contact)
 menus:
   main:
-    title: Pricing
+    title: Relocation
     weight: 3
 template: landing
 ---
