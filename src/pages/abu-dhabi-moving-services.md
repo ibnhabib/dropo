@@ -35,8 +35,9 @@ sections:
           ●     [Moving & Packing Services](/uae-moving-packing-services)[](https://www.allied.com/ae/services/uae-moving-packing-services)\
 
           ●     [Storage Solutions](/storage-services)
-
-
+        title: Abu Dhabi Moving Services
+        image: /images/6-600x413.jpg
+      - content: >-
           **Affordable & Professional Abu Dhabi Movers**
 
 
@@ -64,8 +65,8 @@ sections:
 
 
           Start planning your move today! Call **+971 2 5548822** or [request a moving quote online.](/contact)
-        title: Abu Dhabi Moving Services
-        image: /images/6-600x413.jpg
+        image: /images/undraw_chore_list_re_2lq8.svg
+      - {}
     section_id: features
 menus:
   main:
