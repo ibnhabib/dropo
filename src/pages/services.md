@@ -6,6 +6,6 @@ sections:
     section_id: features
 menus:
   main:
-    weight: 6
+    weight: 3
 template: landing
 ---
