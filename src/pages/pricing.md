@@ -12,13 +12,12 @@ sections:
       **Abu Dhabi Moving Services**
 
 
-      With an office in Abu Dhabi we are able to offer our customers a fantas
+      With an office in Abu Dhabi we are able to offer our customers a fantastic range of moving services that will save you time, effort (and money!).
 
 
       ![](/images/6-600x413.jpg)
 
 
-      tic range of moving services that will save you time, effort (and money!).
 
 
       Due to our extensive global network of partners, Allied is your one stop moving shop. Our Abu Dhabi moving services include:
