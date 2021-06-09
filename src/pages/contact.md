@@ -35,7 +35,7 @@ sections:
 menus:
   secondary:
     title: Contact
-    weight: 3
+    weight: 4
   main:
     weight: 3
 template: landing
