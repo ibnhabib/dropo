@@ -18,5 +18,10 @@ Our mission and values are to help people and businesses to relocate without str
 
 Are you looking for relocation service, we are one click ahead.
 
-<a href="tel:+971554948975" class="button"> Click to Call </a><br>
-<a href="https://wa.me/971554948975" class="button">Click to Whatsapp</a>
+<center>
+
+Please feel free to contact if you have any query.
+
+<p class="block-buttons"><a href="tel:+971554948975" class="button"> Click to Call</a></p>
+<p class="block-buttons"><a href="https://wa.me/971554948975" class="button">WhatsApp Us</a></p>
+</center>
