@@ -62,6 +62,11 @@ sections:
 
           Start planning your move today! Call **+971 2 5548822** or [request a moving quote online.](https://www.ukargo.com/contact)
         image: /images/undraw_chore_list_re_2lq8.svg
+  - type: section_cta
+    title: Contact us
+    actions:
+      - label: Contact us
+        url: /contact
 menus:
   secondary:
     title: Abu Dhabi Movers
