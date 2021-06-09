@@ -12,7 +12,7 @@ sections:
       <p class="block-buttons"><a href="https://wa.me/971554948975" class="button white large">Whatsapp</a></p>
     image: /images/undraw_heavy_box_agqi.svg
     section_id: hero
-    title: Local and International Mover Packer
+    title: Mover and Packing in Abu Dhabi
     type: section_hero
   - bg: gray
     featureslist:
