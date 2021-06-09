@@ -31,6 +31,7 @@ sections:
 
       Mobile: +971-58-5847087<br>
       </p>
+    image: /images/undraw_business_deal_cpi9.svg
 menus:
   secondary:
     title: Contact
