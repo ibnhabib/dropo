@@ -1,6 +1,6 @@
 ---
 title: About Us
-subtitle: Local and International movers in Abu Dhabi
+subtitle: Local and International movers in UAE
 img_path: /images/undraw_security_on_re_e491.svg
 menus:
   secondary:
