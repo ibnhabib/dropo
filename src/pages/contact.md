@@ -24,8 +24,6 @@ sections:
       <!--StartFragment-->
 
       R299-2, WH01, Ras Al Khor Industrial Second, Dubai, UAE<br>
-
-
       Musaffah 37, Abu Dhabi, UAE<br>
       Email: contact@ukargo.com<br>
 
